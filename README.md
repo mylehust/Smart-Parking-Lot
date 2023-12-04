@@ -1,5 +1,7 @@
 **Smart Parking Lot**
 
+**Download SolidWork: https://drive.google.com/drive/folders/1EBsxPKQ6HjxjfuIS1VNsVNw552oY6WcA?usp=sharing**
+
 **Sản phẩm cuối cùng sẽ thực hiện được:**
 - Xác Định Chủ Nhân và Quản Lý Thẻ: Sử dụng RFID để định danh chủ nhân của xe và quản lý thông tin từ thẻ
 - Tự Động Điều Khiển Cổng Mở Đóng: Sử dụng servo để điều khiển cổng mở đóng tự động dựa trên thông tin từ RFID.
