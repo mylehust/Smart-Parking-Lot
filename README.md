@@ -13,7 +13,8 @@ Các linh kiện chính:
 5. Động cơ Servo
 Code arduino thể hiện thuật toán điều khiển bãi đỗ xe tự động sử dụng RFID và các cảm biến đi kèm
 ![image](https://github.com/mylehust/Smart-Parking-Lot/assets/109675981/f21e9d28-9845-4f50-8526-b99d250ed70f)
-Lưu đồ thuật toán: ![image](https://github.com/mylehust/Smart-Parking-Lot/assets/109675981/cf47622e-a6e9-418b-8c9a-d6783edcb854)
+Lưu đồ thuật toán:
+![image](https://github.com/mylehust/Smart-Parking-Lot/assets/109675981/cf47622e-a6e9-418b-8c9a-d6783edcb854)
 Sơ đồ kết nối mạch:
 ![image](https://github.com/mylehust/Smart-Parking-Lot/assets/109675981/728f4fd2-07a7-44e8-a1a4-f92b12543bdd)
 
